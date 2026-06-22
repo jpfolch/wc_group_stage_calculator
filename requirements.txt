@@ -54,6 +54,8 @@ mdurl==0.1.2
     # via markdown-it-py
 narwhals==2.22.1
     # via altair
+matplotlib==3.10.3
+    # via solve-sweepstake
 numpy==2.4.6
     # via
     #   pandas
