@@ -6,5 +6,8 @@ __pycache__/
 dist/
 build/
 .env
+.streamlit/secrets.toml
 *.swp
 .DS_Store
+.claude/
+.python-version

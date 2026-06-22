@@ -150,20 +150,28 @@ def _load_bracket_topology():
 _BRACKET_TOPOLOGY = _load_bracket_topology()
 
 
-def _fetch_data() -> None:
-    import datetime
+def _get_odds_api_key() -> str:
     import os
     from dotenv import load_dotenv
-    from simulator import espn_client, odds_client
     from simulator.paths import ENV_FILE
 
     load_dotenv(ENV_FILE)
+
+    if "ODDS_API_KEY" in st.secrets:
+        return st.secrets["ODDS_API_KEY"]
+
+    return os.environ.get("ODDS_API_KEY", "")
+
+
+def _fetch_data() -> None:
+    import datetime
+    from simulator import espn_client, odds_client
 
     tr, gs, comp, fix = espn_client.fetch_all(start_date=_START, end_date=_END)
 
     # Enrich fixtures with per-match Poisson λ values from the odds API
     odds_note = ""
-    api_key = os.environ.get("ODDS_API_KEY", "")
+    api_key = _get_odds_api_key()
     if api_key:
         try:
             raw_odds = odds_client.fetch_odds(api_key)
