@@ -1,0 +1,53 @@
+{
+  "tournament": "2026 FIFA World Cup",
+  "format": "48 teams, knockout from Round of 32",
+  "knockout_dates": "2026-06-28 to 2026-07-19",
+  "final_venue": "MetLife Stadium, East Rutherford, New Jersey",
+  "note": "Matchups use slot placeholders. Actual teams depend on final group standings and which 8 third-placed teams advance. Third-place slots show the pool of possible source groups; the exact 3rd-placed team is set per FIFA's 495-combination table (Annex C) once qualification concludes.",
+  "rounds": {
+    "round_of_32": [
+      { "match": 73, "home": "Runner-up Group A", "away": "Runner-up Group B" },
+      { "match": 74, "home": "Winner Group E", "away": "Best 3rd place Group A/B/C/D/F" },
+      { "match": 75, "home": "Winner Group F", "away": "Runner-up Group C" },
+      { "match": 76, "home": "Winner Group C", "away": "Runner-up Group F" },
+      { "match": 77, "home": "Winner Group I", "away": "Best 3rd place Group C/D/F/G/H" },
+      { "match": 78, "home": "Runner-up Group E", "away": "Runner-up Group I" },
+      { "match": 79, "home": "Winner Group A", "away": "Best 3rd place Group C/E/F/H/I" },
+      { "match": 80, "home": "Winner Group L", "away": "Best 3rd place Group E/H/I/J/K" },
+      { "match": 81, "home": "Winner Group D", "away": "Best 3rd place Group B/E/F/I/J" },
+      { "match": 82, "home": "Winner Group G", "away": "Best 3rd place Group A/E/H/I/J" },
+      { "match": 83, "home": "Runner-up Group K", "away": "Runner-up Group L" },
+      { "match": 84, "home": "Winner Group H", "away": "Runner-up Group J" },
+      { "match": 85, "home": "Winner Group B", "away": "Best 3rd place Group E/F/G/I/J" },
+      { "match": 86, "home": "Winner Group J", "away": "Runner-up Group H" },
+      { "match": 87, "home": "Winner Group K", "away": "Best 3rd place Group D/E/I/J/L" },
+      { "match": 88, "home": "Runner-up Group D", "away": "Runner-up Group G" }
+    ],
+    "round_of_16": [
+      { "match": 89, "home": "Winner Match 74", "away": "Winner Match 77" },
+      { "match": 90, "home": "Winner Match 73", "away": "Winner Match 75" },
+      { "match": 91, "home": "Winner Match 76", "away": "Winner Match 78" },
+      { "match": 92, "home": "Winner Match 79", "away": "Winner Match 80" },
+      { "match": 93, "home": "Winner Match 83", "away": "Winner Match 84" },
+      { "match": 94, "home": "Winner Match 81", "away": "Winner Match 82" },
+      { "match": 95, "home": "Winner Match 86", "away": "Winner Match 88" },
+      { "match": 96, "home": "Winner Match 85", "away": "Winner Match 87" }
+    ],
+    "quarter_finals": [
+      { "match": 97, "home": "Winner Match 89", "away": "Winner Match 90" },
+      { "match": 98, "home": "Winner Match 93", "away": "Winner Match 94" },
+      { "match": 99, "home": "Winner Match 91", "away": "Winner Match 92" },
+      { "match": 100, "home": "Winner Match 95", "away": "Winner Match 96" }
+    ],
+    "semi_finals": [
+      { "match": 101, "home": "Winner Match 97", "away": "Winner Match 98" },
+      { "match": 102, "home": "Winner Match 99", "away": "Winner Match 100" }
+    ],
+    "third_place": [
+      { "match": 103, "home": "Loser Match 101", "away": "Loser Match 102" }
+    ],
+    "final": [
+      { "match": 104, "home": "Winner Match 101", "away": "Winner Match 102" }
+    ]
+  }
+}

@@ -1,0 +1,1631 @@
+{
+  "cached_at": "2026-06-21T19:33:22",
+  "teams": {
+    "203": {
+      "id": "203",
+      "name": "Mexico",
+      "abbreviation": "MEX",
+      "group": "A"
+    },
+    "450": {
+      "id": "450",
+      "name": "Czechia",
+      "abbreviation": "CZE",
+      "group": "A"
+    },
+    "451": {
+      "id": "451",
+      "name": "South Korea",
+      "abbreviation": "KOR",
+      "group": "A"
+    },
+    "467": {
+      "id": "467",
+      "name": "South Africa",
+      "abbreviation": "RSA",
+      "group": "A"
+    },
+    "206": {
+      "id": "206",
+      "name": "Canada",
+      "abbreviation": "CAN",
+      "group": "B"
+    },
+    "452": {
+      "id": "452",
+      "name": "Bosnia-Herzegovina",
+      "abbreviation": "BIH",
+      "group": "B"
+    },
+    "475": {
+      "id": "475",
+      "name": "Switzerland",
+      "abbreviation": "SUI",
+      "group": "B"
+    },
+    "4398": {
+      "id": "4398",
+      "name": "Qatar",
+      "abbreviation": "QAT",
+      "group": "B"
+    },
+    "205": {
+      "id": "205",
+      "name": "Brazil",
+      "abbreviation": "BRA",
+      "group": "C"
+    },
+    "580": {
+      "id": "580",
+      "name": "Scotland",
+      "abbreviation": "SCO",
+      "group": "C"
+    },
+    "2654": {
+      "id": "2654",
+      "name": "Haiti",
+      "abbreviation": "HAI",
+      "group": "C"
+    },
+    "2869": {
+      "id": "2869",
+      "name": "Morocco",
+      "abbreviation": "MAR",
+      "group": "C"
+    },
+    "210": {
+      "id": "210",
+      "name": "Paraguay",
+      "abbreviation": "PAR",
+      "group": "D"
+    },
+    "465": {
+      "id": "465",
+      "name": "T\u00fcrkiye",
+      "abbreviation": "TUR",
+      "group": "D"
+    },
+    "628": {
+      "id": "628",
+      "name": "Australia",
+      "abbreviation": "AUS",
+      "group": "D"
+    },
+    "660": {
+      "id": "660",
+      "name": "United States",
+      "abbreviation": "USA",
+      "group": "D"
+    },
+    "209": {
+      "id": "209",
+      "name": "Ecuador",
+      "abbreviation": "ECU",
+      "group": "E"
+    },
+    "481": {
+      "id": "481",
+      "name": "Germany",
+      "abbreviation": "GER",
+      "group": "E"
+    },
+    "4789": {
+      "id": "4789",
+      "name": "Ivory Coast",
+      "abbreviation": "CIV",
+      "group": "E"
+    },
+    "11678": {
+      "id": "11678",
+      "name": "Cura\u00e7ao",
+      "abbreviation": "CUW",
+      "group": "E"
+    },
+    "449": {
+      "id": "449",
+      "name": "Netherlands",
+      "abbreviation": "NED",
+      "group": "F"
+    },
+    "466": {
+      "id": "466",
+      "name": "Sweden",
+      "abbreviation": "SWE",
+      "group": "F"
+    },
+    "627": {
+      "id": "627",
+      "name": "Japan",
+      "abbreviation": "JPN",
+      "group": "F"
+    },
+    "659": {
+      "id": "659",
+      "name": "Tunisia",
+      "abbreviation": "TUN",
+      "group": "F"
+    },
+    "459": {
+      "id": "459",
+      "name": "Belgium",
+      "abbreviation": "BEL",
+      "group": "G"
+    },
+    "469": {
+      "id": "469",
+      "name": "Iran",
+      "abbreviation": "IRN",
+      "group": "G"
+    },
+    "2620": {
+      "id": "2620",
+      "name": "Egypt",
+      "abbreviation": "EGY",
+      "group": "G"
+    },
+    "2666": {
+      "id": "2666",
+      "name": "New Zealand",
+      "abbreviation": "NZL",
+      "group": "G"
+    },
+    "164": {
+      "id": "164",
+      "name": "Spain",
+      "abbreviation": "ESP",
+      "group": "H"
+    },
+    "212": {
+      "id": "212",
+      "name": "Uruguay",
+      "abbreviation": "URU",
+      "group": "H"
+    },
+    "655": {
+      "id": "655",
+      "name": "Saudi Arabia",
+      "abbreviation": "KSA",
+      "group": "H"
+    },
+    "2597": {
+      "id": "2597",
+      "name": "Cape Verde",
+      "abbreviation": "CPV",
+      "group": "H"
+    },
+    "464": {
+      "id": "464",
+      "name": "Norway",
+      "abbreviation": "NOR",
+      "group": "I"
+    },
+    "478": {
+      "id": "478",
+      "name": "France",
+      "abbreviation": "FRA",
+      "group": "I"
+    },
+    "654": {
+      "id": "654",
+      "name": "Senegal",
+      "abbreviation": "SEN",
+      "group": "I"
+    },
+    "4375": {
+      "id": "4375",
+      "name": "Iraq",
+      "abbreviation": "IRQ",
+      "group": "I"
+    },
+    "202": {
+      "id": "202",
+      "name": "Argentina",
+      "abbreviation": "ARG",
+      "group": "J"
+    },
+    "474": {
+      "id": "474",
+      "name": "Austria",
+      "abbreviation": "AUT",
+      "group": "J"
+    },
+    "624": {
+      "id": "624",
+      "name": "Algeria",
+      "abbreviation": "ALG",
+      "group": "J"
+    },
+    "2917": {
+      "id": "2917",
+      "name": "Jordan",
+      "abbreviation": "JOR",
+      "group": "J"
+    },
+    "208": {
+      "id": "208",
+      "name": "Colombia",
+      "abbreviation": "COL",
+      "group": "K"
+    },
+    "482": {
+      "id": "482",
+      "name": "Portugal",
+      "abbreviation": "POR",
+      "group": "K"
+    },
+    "2570": {
+      "id": "2570",
+      "name": "Uzbekistan",
+      "abbreviation": "UZB",
+      "group": "K"
+    },
+    "2850": {
+      "id": "2850",
+      "name": "Congo DR",
+      "abbreviation": "COD",
+      "group": "K"
+    },
+    "448": {
+      "id": "448",
+      "name": "England",
+      "abbreviation": "ENG",
+      "group": "L"
+    },
+    "477": {
+      "id": "477",
+      "name": "Croatia",
+      "abbreviation": "CRO",
+      "group": "L"
+    },
+    "2659": {
+      "id": "2659",
+      "name": "Panama",
+      "abbreviation": "PAN",
+      "group": "L"
+    },
+    "4469": {
+      "id": "4469",
+      "name": "Ghana",
+      "abbreviation": "GHA",
+      "group": "L"
+    }
+  },
+  "group_standings": {
+    "A": [
+      {
+        "team_id": "203",
+        "group": "A",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "losses": 0,
+        "gf": 3,
+        "ga": 0,
+        "points": 6
+      },
+      {
+        "team_id": "450",
+        "group": "A",
+        "played": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "gf": 2,
+        "ga": 3,
+        "points": 1
+      },
+      {
+        "team_id": "451",
+        "group": "A",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "gf": 2,
+        "ga": 2,
+        "points": 3
+      },
+      {
+        "team_id": "467",
+        "group": "A",
+        "played": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "gf": 1,
+        "ga": 3,
+        "points": 1
+      }
+    ],
+    "B": [
+      {
+        "team_id": "206",
+        "group": "B",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "gf": 7,
+        "ga": 1,
+        "points": 4
+      },
+      {
+        "team_id": "452",
+        "group": "B",
+        "played": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "gf": 2,
+        "ga": 5,
+        "points": 1
+      },
+      {
+        "team_id": "475",
+        "group": "B",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "gf": 5,
+        "ga": 2,
+        "points": 4
+      },
+      {
+        "team_id": "4398",
+        "group": "B",
+        "played": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "gf": 1,
+        "ga": 7,
+        "points": 1
+      }
+    ],
+    "C": [
+      {
+        "team_id": "205",
+        "group": "C",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "gf": 4,
+        "ga": 1,
+        "points": 4
+      },
+      {
+        "team_id": "580",
+        "group": "C",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "gf": 1,
+        "ga": 1,
+        "points": 3
+      },
+      {
+        "team_id": "2654",
+        "group": "C",
+        "played": 2,
+        "wins": 0,
+        "draws": 0,
+        "losses": 2,
+        "gf": 0,
+        "ga": 4,
+        "points": 0
+      },
+      {
+        "team_id": "2869",
+        "group": "C",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "gf": 2,
+        "ga": 1,
+        "points": 4
+      }
+    ],
+    "D": [
+      {
+        "team_id": "210",
+        "group": "D",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "gf": 2,
+        "ga": 4,
+        "points": 3
+      },
+      {
+        "team_id": "465",
+        "group": "D",
+        "played": 2,
+        "wins": 0,
+        "draws": 0,
+        "losses": 2,
+        "gf": 0,
+        "ga": 3,
+        "points": 0
+      },
+      {
+        "team_id": "628",
+        "group": "D",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "gf": 2,
+        "ga": 2,
+        "points": 3
+      },
+      {
+        "team_id": "660",
+        "group": "D",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "losses": 0,
+        "gf": 6,
+        "ga": 1,
+        "points": 6
+      }
+    ],
+    "E": [
+      {
+        "team_id": "209",
+        "group": "E",
+        "played": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "gf": 0,
+        "ga": 1,
+        "points": 1
+      },
+      {
+        "team_id": "481",
+        "group": "E",
+        "played": 2,
+        "wins": 2,
+        "draws": 0,
+        "losses": 0,
+        "gf": 9,
+        "ga": 2,
+        "points": 6
+      },
+      {
+        "team_id": "4789",
+        "group": "E",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "gf": 2,
+        "ga": 2,
+        "points": 3
+      },
+      {
+        "team_id": "11678",
+        "group": "E",
+        "played": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "gf": 1,
+        "ga": 7,
+        "points": 1
+      }
+    ],
+    "F": [
+      {
+        "team_id": "449",
+        "group": "F",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "gf": 7,
+        "ga": 3,
+        "points": 4
+      },
+      {
+        "team_id": "466",
+        "group": "F",
+        "played": 2,
+        "wins": 1,
+        "draws": 0,
+        "losses": 1,
+        "gf": 6,
+        "ga": 6,
+        "points": 3
+      },
+      {
+        "team_id": "627",
+        "group": "F",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "gf": 6,
+        "ga": 2,
+        "points": 4
+      },
+      {
+        "team_id": "659",
+        "group": "F",
+        "played": 2,
+        "wins": 0,
+        "draws": 0,
+        "losses": 2,
+        "gf": 1,
+        "ga": 9,
+        "points": 0
+      }
+    ],
+    "G": [
+      {
+        "team_id": "459",
+        "group": "G",
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "gf": 1,
+        "ga": 1,
+        "points": 2
+      },
+      {
+        "team_id": "469",
+        "group": "G",
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "gf": 2,
+        "ga": 2,
+        "points": 2
+      },
+      {
+        "team_id": "2620",
+        "group": "G",
+        "played": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 0,
+        "gf": 1,
+        "ga": 1,
+        "points": 1
+      },
+      {
+        "team_id": "2666",
+        "group": "G",
+        "played": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 0,
+        "gf": 2,
+        "ga": 2,
+        "points": 1
+      }
+    ],
+    "H": [
+      {
+        "team_id": "164",
+        "group": "H",
+        "played": 2,
+        "wins": 1,
+        "draws": 1,
+        "losses": 0,
+        "gf": 4,
+        "ga": 0,
+        "points": 4
+      },
+      {
+        "team_id": "212",
+        "group": "H",
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "gf": 3,
+        "ga": 3,
+        "points": 2
+      },
+      {
+        "team_id": "655",
+        "group": "H",
+        "played": 2,
+        "wins": 0,
+        "draws": 1,
+        "losses": 1,
+        "gf": 1,
+        "ga": 5,
+        "points": 1
+      },
+      {
+        "team_id": "2597",
+        "group": "H",
+        "played": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 0,
+        "gf": 2,
+        "ga": 2,
+        "points": 2
+      }
+    ],
+    "I": [
+      {
+        "team_id": "464",
+        "group": "I",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "gf": 4,
+        "ga": 1,
+        "points": 3
+      },
+      {
+        "team_id": "478",
+        "group": "I",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "gf": 3,
+        "ga": 1,
+        "points": 3
+      },
+      {
+        "team_id": "654",
+        "group": "I",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "gf": 1,
+        "ga": 3,
+        "points": 0
+      },
+      {
+        "team_id": "4375",
+        "group": "I",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "gf": 1,
+        "ga": 4,
+        "points": 0
+      }
+    ],
+    "J": [
+      {
+        "team_id": "202",
+        "group": "J",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "gf": 3,
+        "ga": 0,
+        "points": 3
+      },
+      {
+        "team_id": "474",
+        "group": "J",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "gf": 3,
+        "ga": 1,
+        "points": 3
+      },
+      {
+        "team_id": "624",
+        "group": "J",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "gf": 0,
+        "ga": 3,
+        "points": 0
+      },
+      {
+        "team_id": "2917",
+        "group": "J",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "gf": 1,
+        "ga": 3,
+        "points": 0
+      }
+    ],
+    "K": [
+      {
+        "team_id": "208",
+        "group": "K",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "gf": 3,
+        "ga": 1,
+        "points": 3
+      },
+      {
+        "team_id": "482",
+        "group": "K",
+        "played": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 0,
+        "gf": 1,
+        "ga": 1,
+        "points": 1
+      },
+      {
+        "team_id": "2570",
+        "group": "K",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "gf": 1,
+        "ga": 3,
+        "points": 0
+      },
+      {
+        "team_id": "2850",
+        "group": "K",
+        "played": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 0,
+        "gf": 1,
+        "ga": 1,
+        "points": 1
+      }
+    ],
+    "L": [
+      {
+        "team_id": "448",
+        "group": "L",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "gf": 4,
+        "ga": 2,
+        "points": 3
+      },
+      {
+        "team_id": "477",
+        "group": "L",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "gf": 2,
+        "ga": 4,
+        "points": 0
+      },
+      {
+        "team_id": "2659",
+        "group": "L",
+        "played": 1,
+        "wins": 0,
+        "draws": 0,
+        "losses": 1,
+        "gf": 0,
+        "ga": 1,
+        "points": 0
+      },
+      {
+        "team_id": "4469",
+        "group": "L",
+        "played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "gf": 1,
+        "ga": 0,
+        "points": 3
+      }
+    ]
+  },
+  "completed": [
+    {
+      "match_id": "760421",
+      "home_team_id": "628",
+      "away_team_id": "465",
+      "home_goals": 2,
+      "away_goals": 0,
+      "group": "D",
+      "is_completed": true
+    },
+    {
+      "match_id": "760422",
+      "home_team_id": "481",
+      "away_team_id": "11678",
+      "home_goals": 7,
+      "away_goals": 1,
+      "group": "E",
+      "is_completed": true
+    },
+    {
+      "match_id": "760425",
+      "home_team_id": "449",
+      "away_team_id": "627",
+      "home_goals": 2,
+      "away_goals": 2,
+      "group": "F",
+      "is_completed": true
+    },
+    {
+      "match_id": "760423",
+      "home_team_id": "4789",
+      "away_team_id": "209",
+      "home_goals": 1,
+      "away_goals": 0,
+      "group": "E",
+      "is_completed": true
+    },
+    {
+      "match_id": "760424",
+      "home_team_id": "466",
+      "away_team_id": "659",
+      "home_goals": 5,
+      "away_goals": 1,
+      "group": "F",
+      "is_completed": true
+    },
+    {
+      "match_id": "760415",
+      "home_team_id": "203",
+      "away_team_id": "467",
+      "home_goals": 2,
+      "away_goals": 0,
+      "group": "A",
+      "is_completed": true
+    },
+    {
+      "match_id": "760414",
+      "home_team_id": "451",
+      "away_team_id": "450",
+      "home_goals": 2,
+      "away_goals": 1,
+      "group": "A",
+      "is_completed": true
+    },
+    {
+      "match_id": "760420",
+      "home_team_id": "4398",
+      "away_team_id": "475",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "B",
+      "is_completed": true
+    },
+    {
+      "match_id": "760419",
+      "home_team_id": "205",
+      "away_team_id": "2869",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "C",
+      "is_completed": true
+    },
+    {
+      "match_id": "760418",
+      "home_team_id": "2654",
+      "away_team_id": "580",
+      "home_goals": 0,
+      "away_goals": 1,
+      "group": "C",
+      "is_completed": true
+    },
+    {
+      "match_id": "760416",
+      "home_team_id": "206",
+      "away_team_id": "452",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "B",
+      "is_completed": true
+    },
+    {
+      "match_id": "760417",
+      "home_team_id": "660",
+      "away_team_id": "210",
+      "home_goals": 4,
+      "away_goals": 1,
+      "group": "D",
+      "is_completed": true
+    },
+    {
+      "match_id": "760431",
+      "home_team_id": "474",
+      "away_team_id": "2917",
+      "home_goals": 3,
+      "away_goals": 1,
+      "group": "J",
+      "is_completed": true
+    },
+    {
+      "match_id": "760435",
+      "home_team_id": "482",
+      "away_team_id": "2850",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "K",
+      "is_completed": true
+    },
+    {
+      "match_id": "760437",
+      "home_team_id": "448",
+      "away_team_id": "477",
+      "home_goals": 4,
+      "away_goals": 2,
+      "group": "L",
+      "is_completed": true
+    },
+    {
+      "match_id": "760434",
+      "home_team_id": "4469",
+      "away_team_id": "2659",
+      "home_goals": 1,
+      "away_goals": 0,
+      "group": "L",
+      "is_completed": true
+    },
+    {
+      "match_id": "760436",
+      "home_team_id": "2570",
+      "away_team_id": "208",
+      "home_goals": 1,
+      "away_goals": 3,
+      "group": "K",
+      "is_completed": true
+    },
+    {
+      "match_id": "760438",
+      "home_team_id": "450",
+      "away_team_id": "467",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "A",
+      "is_completed": true
+    },
+    {
+      "match_id": "760439",
+      "home_team_id": "475",
+      "away_team_id": "452",
+      "home_goals": 4,
+      "away_goals": 1,
+      "group": "B",
+      "is_completed": true
+    },
+    {
+      "match_id": "760440",
+      "home_team_id": "206",
+      "away_team_id": "4398",
+      "home_goals": 6,
+      "away_goals": 0,
+      "group": "B",
+      "is_completed": true
+    },
+    {
+      "match_id": "760441",
+      "home_team_id": "203",
+      "away_team_id": "451",
+      "home_goals": 1,
+      "away_goals": 0,
+      "group": "A",
+      "is_completed": true
+    },
+    {
+      "match_id": "760447",
+      "home_team_id": "449",
+      "away_team_id": "466",
+      "home_goals": 5,
+      "away_goals": 1,
+      "group": "F",
+      "is_completed": true
+    },
+    {
+      "match_id": "760448",
+      "home_team_id": "481",
+      "away_team_id": "4789",
+      "home_goals": 2,
+      "away_goals": 1,
+      "group": "E",
+      "is_completed": true
+    },
+    {
+      "match_id": "760446",
+      "home_team_id": "209",
+      "away_team_id": "11678",
+      "home_goals": 0,
+      "away_goals": 0,
+      "group": "E",
+      "is_completed": true
+    },
+    {
+      "match_id": "760442",
+      "home_team_id": "660",
+      "away_team_id": "628",
+      "home_goals": 2,
+      "away_goals": 0,
+      "group": "D",
+      "is_completed": true
+    },
+    {
+      "match_id": "760445",
+      "home_team_id": "580",
+      "away_team_id": "2869",
+      "home_goals": 0,
+      "away_goals": 1,
+      "group": "C",
+      "is_completed": true
+    },
+    {
+      "match_id": "760444",
+      "home_team_id": "205",
+      "away_team_id": "2654",
+      "home_goals": 3,
+      "away_goals": 0,
+      "group": "C",
+      "is_completed": true
+    },
+    {
+      "match_id": "760443",
+      "home_team_id": "465",
+      "away_team_id": "210",
+      "home_goals": 0,
+      "away_goals": 1,
+      "group": "D",
+      "is_completed": true
+    },
+    {
+      "match_id": "760432",
+      "home_team_id": "478",
+      "away_team_id": "654",
+      "home_goals": 3,
+      "away_goals": 1,
+      "group": "I",
+      "is_completed": true
+    },
+    {
+      "match_id": "760430",
+      "home_team_id": "4375",
+      "away_team_id": "464",
+      "home_goals": 1,
+      "away_goals": 4,
+      "group": "I",
+      "is_completed": true
+    },
+    {
+      "match_id": "760433",
+      "home_team_id": "202",
+      "away_team_id": "624",
+      "home_goals": 3,
+      "away_goals": 0,
+      "group": "J",
+      "is_completed": true
+    },
+    {
+      "match_id": "760428",
+      "home_team_id": "164",
+      "away_team_id": "2597",
+      "home_goals": 0,
+      "away_goals": 0,
+      "group": "H",
+      "is_completed": true
+    },
+    {
+      "match_id": "760426",
+      "home_team_id": "459",
+      "away_team_id": "2620",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "G",
+      "is_completed": true
+    },
+    {
+      "match_id": "760429",
+      "home_team_id": "655",
+      "away_team_id": "212",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "H",
+      "is_completed": true
+    },
+    {
+      "match_id": "760427",
+      "home_team_id": "469",
+      "away_team_id": "2666",
+      "home_goals": 2,
+      "away_goals": 2,
+      "group": "G",
+      "is_completed": true
+    },
+    {
+      "match_id": "760449",
+      "home_team_id": "659",
+      "away_team_id": "627",
+      "home_goals": 0,
+      "away_goals": 4,
+      "group": "F",
+      "is_completed": true
+    },
+    {
+      "match_id": "760453",
+      "home_team_id": "164",
+      "away_team_id": "655",
+      "home_goals": 4,
+      "away_goals": 0,
+      "group": "H",
+      "is_completed": true
+    },
+    {
+      "match_id": "760451",
+      "home_team_id": "459",
+      "away_team_id": "469",
+      "home_goals": 0,
+      "away_goals": 0,
+      "group": "G",
+      "is_completed": true
+    },
+    {
+      "match_id": "760450",
+      "home_team_id": "212",
+      "away_team_id": "2597",
+      "home_goals": 2,
+      "away_goals": 2,
+      "group": "H",
+      "is_completed": true
+    }
+  ],
+  "fixtures": [
+    {
+      "match_id": "760452",
+      "home_team_id": "2666",
+      "away_team_id": "2620",
+      "group": "G",
+      "utc_date": "2026-06-22T01:00Z",
+      "prob_home": 0.4324107334894827,
+      "prob_draw": 0.3006418238971121,
+      "prob_away": 0.2669474426134052,
+      "lambda_home": 1.6123872955175467,
+      "lambda_away": 1.369863509383576,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760456",
+      "home_team_id": "202",
+      "away_team_id": "474",
+      "group": "J",
+      "utc_date": "2026-06-22T17:00Z",
+      "prob_home": 0.628431716165818,
+      "prob_draw": 0.2334291462253824,
+      "prob_away": 0.13813913760879962,
+      "lambda_home": 1.8592958853978776,
+      "lambda_away": 0.7848930908899643,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760457",
+      "home_team_id": "478",
+      "away_team_id": "4375",
+      "group": "I",
+      "utc_date": "2026-06-22T21:00Z",
+      "prob_home": 0.8885468597673855,
+      "prob_draw": 0.0795185474694457,
+      "prob_away": 0.03193459276316878,
+      "lambda_home": 3.3595147937136067,
+      "lambda_away": 0.5629847675962076,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760454",
+      "home_team_id": "464",
+      "away_team_id": "654",
+      "group": "I",
+      "utc_date": "2026-06-23T00:00Z",
+      "prob_home": 0.42714014058506133,
+      "prob_draw": 0.2748468693435628,
+      "prob_away": 0.2980129900713759,
+      "lambda_home": 1.467880871622183,
+      "lambda_away": 1.2276006385401708,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760455",
+      "home_team_id": "2917",
+      "away_team_id": "624",
+      "group": "J",
+      "utc_date": "2026-06-23T03:00Z",
+      "prob_home": 0.15906092292482962,
+      "prob_draw": 0.231528833755447,
+      "prob_away": 0.6094102433197233,
+      "lambda_home": 0.8098020745496612,
+      "lambda_away": 1.847138557316793,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760461",
+      "home_team_id": "482",
+      "away_team_id": "2570",
+      "group": "K",
+      "utc_date": "2026-06-23T17:00Z",
+      "prob_home": 0.7958160014734467,
+      "prob_draw": 0.14049284827259206,
+      "prob_away": 0.06369115025396122,
+      "lambda_home": 2.521323233106232,
+      "lambda_away": 0.5810676093315124,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760458",
+      "home_team_id": "448",
+      "away_team_id": "4469",
+      "group": "L",
+      "utc_date": "2026-06-23T20:00Z",
+      "prob_home": 0.7835600534703457,
+      "prob_draw": 0.14933580540128472,
+      "prob_away": 0.06710414112836949,
+      "lambda_home": 2.4142819781703295,
+      "lambda_away": 0.5671682743626296,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760460",
+      "home_team_id": "2659",
+      "away_team_id": "477",
+      "group": "L",
+      "utc_date": "2026-06-23T23:00Z",
+      "prob_home": 0.14193244905671917,
+      "prob_draw": 0.2381833284170374,
+      "prob_away": 0.6198842225262434,
+      "lambda_home": 0.7538298903443503,
+      "lambda_away": 1.893504113104136,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760459",
+      "home_team_id": "208",
+      "away_team_id": "2850",
+      "group": "K",
+      "utc_date": "2026-06-24T02:00Z",
+      "prob_home": 0.6340474811812391,
+      "prob_draw": 0.22872032426172556,
+      "prob_away": 0.13723219455703534,
+      "lambda_home": 1.8473046874999999,
+      "lambda_away": 0.7526953125000002,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760462",
+      "home_team_id": "452",
+      "away_team_id": "4398",
+      "group": "B",
+      "utc_date": "2026-06-24T19:00Z",
+      "prob_home": 0.6710967675908591,
+      "prob_draw": 0.19192594696936277,
+      "prob_away": 0.13697728543977808,
+      "lambda_home": 1.9258984375,
+      "lambda_away": 0.6741015625000002,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760463",
+      "home_team_id": "475",
+      "away_team_id": "206",
+      "group": "B",
+      "utc_date": "2026-06-24T19:00Z",
+      "prob_home": 0.38556001321868494,
+      "prob_draw": 0.3099782746481196,
+      "prob_away": 0.3044617121331955,
+      "lambda_home": 1.280471259188198,
+      "lambda_away": 1.1914845933203466,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760464",
+      "home_team_id": "2869",
+      "away_team_id": "2654",
+      "group": "C",
+      "utc_date": "2026-06-24T22:00Z",
+      "prob_home": 0.8006195859592136,
+      "prob_draw": 0.13845901003633465,
+      "prob_away": 0.060921404004451736,
+      "lambda_home": 2.699004246452387,
+      "lambda_away": 0.6712857277602597,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760465",
+      "home_team_id": "580",
+      "away_team_id": "205",
+      "group": "C",
+      "utc_date": "2026-06-24T22:00Z",
+      "prob_home": 0.1195403457755762,
+      "prob_draw": 0.1894245015294582,
+      "prob_away": 0.6910351526949656,
+      "lambda_home": 0.7289529908422265,
+      "lambda_away": 2.077462204622861,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760467",
+      "home_team_id": "450",
+      "away_team_id": "203",
+      "group": "A",
+      "utc_date": "2026-06-25T01:00Z",
+      "prob_home": 0.25,
+      "prob_draw": 0.25,
+      "prob_away": 0.5,
+      "lambda_home": 1.0330859375,
+      "lambda_away": 1.5669140625,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760466",
+      "home_team_id": "467",
+      "away_team_id": "451",
+      "group": "A",
+      "utc_date": "2026-06-25T01:00Z",
+      "prob_home": 0.16897116034768292,
+      "prob_draw": 0.24945368310680371,
+      "prob_away": 0.5815751565455133,
+      "lambda_home": 0.8197265625000001,
+      "lambda_away": 1.7802734375,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760473",
+      "home_team_id": "11678",
+      "away_team_id": "4789",
+      "group": "E",
+      "utc_date": "2026-06-25T20:00Z",
+      "prob_home": 0.0505481645388549,
+      "prob_draw": 0.11163941015765232,
+      "prob_away": 0.8378124253034928,
+      "lambda_home": 0.6270563350403972,
+      "lambda_away": 2.9728778042113113,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760468",
+      "home_team_id": "209",
+      "away_team_id": "481",
+      "group": "E",
+      "utc_date": "2026-06-25T20:00Z",
+      "prob_home": 0.2621502309618521,
+      "prob_draw": 0.25238637836805156,
+      "prob_away": 0.4854633906700964,
+      "lambda_home": 1.1117394015801252,
+      "lambda_away": 1.61410591626045,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760471",
+      "home_team_id": "627",
+      "away_team_id": "466",
+      "group": "F",
+      "utc_date": "2026-06-25T23:00Z",
+      "prob_home": 0.49214697828767917,
+      "prob_draw": 0.2758136593041686,
+      "prob_away": 0.23203936240815223,
+      "lambda_home": 1.666274464654561,
+      "lambda_away": 1.1590680760864052,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760472",
+      "home_team_id": "659",
+      "away_team_id": "449",
+      "group": "F",
+      "utc_date": "2026-06-25T23:00Z",
+      "prob_home": 0.04824994897834778,
+      "prob_draw": 0.11252320190846028,
+      "prob_away": 0.8392268491131919,
+      "lambda_home": 0.5406882692176442,
+      "lambda_away": 2.7847135900658033,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760469",
+      "home_team_id": "210",
+      "away_team_id": "628",
+      "group": "D",
+      "utc_date": "2026-06-26T02:00Z",
+      "prob_home": 0.3358826018437262,
+      "prob_draw": 0.41721292732111276,
+      "prob_away": 0.2469044708351611,
+      "lambda_home": 0.8864559222574463,
+      "lambda_away": 0.8779831837301025,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760470",
+      "home_team_id": "465",
+      "away_team_id": "660",
+      "group": "D",
+      "utc_date": "2026-06-26T02:00Z",
+      "prob_home": 0.27995481644179476,
+      "prob_draw": 0.23969375588327577,
+      "prob_away": 0.48035142767492933,
+      "lambda_home": 1.2315825171509642,
+      "lambda_away": 1.68416525888053,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760475",
+      "home_team_id": "464",
+      "away_team_id": "478",
+      "group": "I",
+      "utc_date": "2026-06-26T19:00Z",
+      "prob_home": 0.22231916643203375,
+      "prob_draw": 0.25121443064056703,
+      "prob_away": 0.5264664029273992,
+      "lambda_home": 1.010921843567921,
+      "lambda_away": 1.7149234742726542,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760474",
+      "home_team_id": "654",
+      "away_team_id": "4375",
+      "group": "I",
+      "utc_date": "2026-06-26T19:00Z",
+      "prob_home": 0.7275269953017452,
+      "prob_draw": 0.18017034898663842,
+      "prob_away": 0.0923026557116163,
+      "lambda_home": 2.134107984593429,
+      "lambda_away": 0.6102072200269322,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760478",
+      "home_team_id": "2597",
+      "away_team_id": "655",
+      "group": "H",
+      "utc_date": "2026-06-27T00:00Z",
+      "prob_home": 0.3992860725166914,
+      "prob_draw": 0.26529787563940543,
+      "prob_away": 0.3354160518439031,
+      "lambda_home": 1.3442303432998592,
+      "lambda_away": 1.2072661052169855,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760479",
+      "home_team_id": "212",
+      "away_team_id": "164",
+      "group": "H",
+      "utc_date": "2026-06-27T00:00Z",
+      "prob_home": 0.15015277206908184,
+      "prob_draw": 0.22850650202051004,
+      "prob_away": 0.6213407259104081,
+      "lambda_home": 0.8117970671158401,
+      "lambda_away": 1.9335474191207325,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760476",
+      "home_team_id": "2620",
+      "away_team_id": "469",
+      "group": "G",
+      "utc_date": "2026-06-27T03:00Z",
+      "prob_home": 0.43462533102510753,
+      "prob_draw": 0.32814301227661247,
+      "prob_away": 0.23723165669828009,
+      "lambda_home": 1.1492047214068588,
+      "lambda_away": 0.8157155704937757,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760477",
+      "home_team_id": "2666",
+      "away_team_id": "459",
+      "group": "G",
+      "utc_date": "2026-06-27T03:00Z",
+      "prob_home": 0.07726925807946451,
+      "prob_draw": 0.1448147443556706,
+      "prob_away": 0.777915997564865,
+      "lambda_home": 0.6350371683758567,
+      "lambda_away": 2.439448705800168,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760480",
+      "home_team_id": "477",
+      "away_team_id": "4469",
+      "group": "L",
+      "utc_date": "2026-06-27T21:00Z",
+      "prob_home": 0.5794389040316172,
+      "prob_draw": 0.25333206845906125,
+      "prob_away": 0.1672290275093214,
+      "lambda_home": 1.691582776530122,
+      "lambda_away": 0.8258330140277392,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760485",
+      "home_team_id": "2659",
+      "away_team_id": "448",
+      "group": "L",
+      "utc_date": "2026-06-27T21:00Z",
+      "prob_home": 0.08385484947786023,
+      "prob_draw": 0.14314970120069867,
+      "prob_away": 0.772995449321441,
+      "lambda_home": 0.6626030075617018,
+      "lambda_away": 2.4008466803960617,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760481",
+      "home_team_id": "208",
+      "away_team_id": "482",
+      "group": "K",
+      "utc_date": "2026-06-27T23:30Z",
+      "prob_home": 0.26275010532919324,
+      "prob_draw": 0.27418322836527426,
+      "prob_away": 0.46306666630553245,
+      "lambda_home": 1.0332345478303615,
+      "lambda_away": 1.4882983691923435,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760482",
+      "home_team_id": "2850",
+      "away_team_id": "2570",
+      "group": "K",
+      "utc_date": "2026-06-27T23:30Z",
+      "prob_home": 0.45490584737363726,
+      "prob_draw": 0.26476001698994767,
+      "prob_away": 0.2803341356364151,
+      "lambda_home": 1.4808984375,
+      "lambda_away": 1.1191015625,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760484",
+      "home_team_id": "624",
+      "away_team_id": "474",
+      "group": "J",
+      "utc_date": "2026-06-28T02:00Z",
+      "prob_home": 0.3115817328064061,
+      "prob_draw": 0.3093074135888412,
+      "prob_away": 0.3791108536047527,
+      "lambda_home": 1.113445547437004,
+      "lambda_away": 1.3329498116023022,
+      "has_market_odds": true
+    },
+    {
+      "match_id": "760483",
+      "home_team_id": "2917",
+      "away_team_id": "202",
+      "group": "J",
+      "utc_date": "2026-06-28T02:00Z",
+      "prob_home": 0.06959894900402745,
+      "prob_draw": 0.1380809471329096,
+      "prob_away": 0.7923201038630631,
+      "lambda_home": 0.6707970396753808,
+      "lambda_away": 2.669186309171055,
+      "has_market_odds": true
+    }
+  ]
+}

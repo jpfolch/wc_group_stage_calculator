@@ -1,0 +1,10 @@
+{
+  "sport_key": "soccer_fifa_world_cup",
+  "n_simulations": 10000,
+  "regions": "uk",
+  "group_stage_start": "20260611",
+  "group_stage_end": "20260627",
+  "poisson_lambdas": {
+    "default_lambda_total": 2.6
+  }
+}

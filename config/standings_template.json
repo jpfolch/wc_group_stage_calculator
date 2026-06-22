@@ -1,0 +1,28 @@
+{
+  "_instructions": "Copy this file to standings.json and fill in your data. Use when ESPN API is unavailable (run with --fallback). team_id can be any unique string (use team name).",
+  "last_updated": "2026-06-19T00:00:00Z",
+  "standings": {
+    "A": [
+      {"team_id": "mex", "team_name": "Mexico",       "abbreviation": "MEX", "played": 2, "wins": 2, "draws": 0, "losses": 0, "gf": 3, "ga": 0, "points": 6},
+      {"team_id": "kor", "team_name": "South Korea",  "abbreviation": "KOR", "played": 2, "wins": 1, "draws": 0, "losses": 1, "gf": 2, "ga": 2, "points": 3},
+      {"team_id": "cze", "team_name": "Czechia",      "abbreviation": "CZE", "played": 2, "wins": 0, "draws": 1, "losses": 1, "gf": 2, "ga": 3, "points": 1},
+      {"team_id": "rsa", "team_name": "South Africa", "abbreviation": "RSA", "played": 2, "wins": 0, "draws": 1, "losses": 1, "gf": 1, "ga": 3, "points": 1}
+    ],
+    "B": [
+      {"team_id": "can", "team_name": "Canada",              "abbreviation": "CAN", "played": 2, "wins": 1, "draws": 1, "losses": 0, "gf": 7, "ga": 1, "points": 4},
+      {"team_id": "sui", "team_name": "Switzerland",         "abbreviation": "SUI", "played": 2, "wins": 1, "draws": 1, "losses": 0, "gf": 5, "ga": 2, "points": 4},
+      {"team_id": "bih", "team_name": "Bosnia-Herzegovina",  "abbreviation": "BIH", "played": 2, "wins": 0, "draws": 1, "losses": 1, "gf": 2, "ga": 5, "points": 1},
+      {"team_id": "qat", "team_name": "Qatar",               "abbreviation": "QAT", "played": 2, "wins": 0, "draws": 1, "losses": 1, "gf": 1, "ga": 7, "points": 1}
+    ]
+  },
+  "fixtures": {
+    "completed": [
+      {"match_id": "m001", "home_team_id": "mex", "away_team_id": "rsa", "home_goals": 2, "away_goals": 0, "group": "A"},
+      {"match_id": "m002", "home_team_id": "kor", "away_team_id": "cze", "home_goals": 1, "away_goals": 1, "group": "A"}
+    ],
+    "remaining": [
+      {"match_id": "m003", "home_team_id": "mex", "away_team_id": "cze", "group": "A", "utc_date": "2026-06-22T22:00:00Z"},
+      {"match_id": "m004", "home_team_id": "rsa", "away_team_id": "kor", "group": "A", "utc_date": "2026-06-22T22:00:00Z"}
+    ]
+  }
+}

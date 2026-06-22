@@ -1,0 +1,14 @@
+{
+  "_comment": "R32 fixed bracket pairings. Slots: '1X'=Winner of Group X, '2X'=Runner-up of Group X. Verify against official FIFA 2026 bracket document.",
+  "_annexe_c_matches": "M74(1E), M77(1I), M79(1A), M80(1L), M81(1D), M82(1G), M85(1B), M87(1K) — opponents determined by Annexe C at runtime.",
+  "r32_fixed": [
+    {"match_id": "M73", "slot_1": "1J", "slot_2": "2H", "verified": false},
+    {"match_id": "M75", "slot_1": "1C", "slot_2": "2F", "verified": false},
+    {"match_id": "M76", "slot_1": "2A", "slot_2": "2B", "verified": false},
+    {"match_id": "M78", "slot_1": "1H", "slot_2": "2J", "verified": false},
+    {"match_id": "M83", "slot_1": "2D", "slot_2": "2E", "verified": false},
+    {"match_id": "M84", "slot_1": "1F", "slot_2": "2C", "verified": false},
+    {"match_id": "M86", "slot_1": "2G", "slot_2": "2I", "verified": false},
+    {"match_id": "M88", "slot_1": "2K", "slot_2": "2L", "verified": false}
+  ]
+}
