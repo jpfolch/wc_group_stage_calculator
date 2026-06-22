@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
 import pandas as pd
@@ -20,6 +21,12 @@ _POISSON = _SETTINGS.get("poisson_lambdas")
 _START = str(_SETTINGS.get("group_stage_start", "20260611"))
 _END = str(_SETTINGS.get("group_stage_end", "20260627"))
 _CACHE_PATH = _ROOT / "config" / "data_cache.json"
+
+# LOCAL_DEV=true in .env means we're running locally and can fetch/cache live ESPN data.
+# When deployed, the app uses only the cache pushed to the repo.
+from dotenv import load_dotenv
+load_dotenv(_ROOT / ".env")
+_IS_LOCAL = os.environ.get("LOCAL_DEV", "").lower() in ("1", "true", "yes")
 
 # ---- Session state ----
 for _k, _v in {
@@ -157,8 +164,11 @@ def _get_odds_api_key() -> str:
 
     load_dotenv(ENV_FILE)
 
-    if "ODDS_API_KEY" in st.secrets:
-        return st.secrets["ODDS_API_KEY"]
+    try:
+        if "ODDS_API_KEY" in st.secrets:
+            return st.secrets["ODDS_API_KEY"]
+    except FileNotFoundError:
+        pass
 
     return os.environ.get("ODDS_API_KEY", "")
 
@@ -328,20 +338,21 @@ def _run_sim(manual_results: dict, n_sims: int) -> None:
 # ---- Sidebar ----
 with st.sidebar:
     st.title("⚽ WC 2026")
-    if st.button("🔄  Update Data from ESPN", use_container_width=True, type="primary"):
-        with st.spinner("Fetching live data…"):
-            try:
-                _fetch_data()
-                teams = st.session_state.team_registry
-                completed = st.session_state.completed
-                fixtures = st.session_state.fixtures
-                st.success(
-                    f"Loaded {len(teams)} teams · "
-                    f"{len(completed)} completed · "
-                    f"{len(fixtures)} remaining"
-                )
-            except Exception as exc:
-                st.error(f"Fetch failed: {exc}")
+    if _IS_LOCAL:
+        if st.button("🔄  Update Data from ESPN", use_container_width=True, type="primary"):
+            with st.spinner("Fetching live data…"):
+                try:
+                    _fetch_data()
+                    teams = st.session_state.team_registry
+                    completed = st.session_state.completed
+                    fixtures = st.session_state.fixtures
+                    st.success(
+                        f"Loaded {len(teams)} teams · "
+                        f"{len(completed)} completed · "
+                        f"{len(fixtures)} remaining"
+                    )
+                except Exception as exc:
+                    st.error(f"Fetch failed: {exc}")
 
     if st.session_state.last_updated:
         st.caption(f"Last updated: {st.session_state.last_updated}")
@@ -384,8 +395,15 @@ st.caption(
 )
 
 if not st.session_state.loaded:
-    st.info("Press **🔄 Update Data from ESPN** in the sidebar to load live standings and fixtures.")
-    st.stop()
+    if not _IS_LOCAL:
+        try:
+            _load_from_cache()
+        except Exception as exc:
+            st.error(f"Could not load cache: {exc}")
+            st.stop()
+    else:
+        st.info("Press **🔄 Update Data from ESPN** in the sidebar to load live standings and fixtures.")
+        st.stop()
 
 teams = st.session_state.team_registry
 group_standings = st.session_state.group_standings

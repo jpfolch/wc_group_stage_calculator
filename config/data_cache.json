@@ -1,5 +1,5 @@
 {
-  "cached_at": "2026-06-21T19:33:22",
+  "cached_at": "2026-06-21T21:09:03",
   "teams": {
     "203": {
       "id": "203",
@@ -593,23 +593,23 @@
       {
         "team_id": "2620",
         "group": "G",
-        "played": 1,
-        "wins": 0,
+        "played": 2,
+        "wins": 1,
         "draws": 1,
         "losses": 0,
-        "gf": 1,
-        "ga": 1,
-        "points": 1
+        "gf": 4,
+        "ga": 2,
+        "points": 4
       },
       {
         "team_id": "2666",
         "group": "G",
-        "played": 1,
+        "played": 2,
         "wins": 0,
         "draws": 1,
-        "losses": 0,
-        "gf": 2,
-        "ga": 2,
+        "losses": 1,
+        "gf": 3,
+        "ga": 5,
         "points": 1
       }
     ],
@@ -846,6 +846,24 @@
   },
   "completed": [
     {
+      "match_id": "760416",
+      "home_team_id": "206",
+      "away_team_id": "452",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "B",
+      "is_completed": true
+    },
+    {
+      "match_id": "760417",
+      "home_team_id": "660",
+      "away_team_id": "210",
+      "home_goals": 4,
+      "away_goals": 1,
+      "group": "D",
+      "is_completed": true
+    },
+    {
       "match_id": "760421",
       "home_team_id": "628",
       "away_team_id": "465",
@@ -936,21 +954,66 @@
       "is_completed": true
     },
     {
-      "match_id": "760416",
-      "home_team_id": "206",
-      "away_team_id": "452",
-      "home_goals": 1,
-      "away_goals": 1,
-      "group": "B",
+      "match_id": "760428",
+      "home_team_id": "164",
+      "away_team_id": "2597",
+      "home_goals": 0,
+      "away_goals": 0,
+      "group": "H",
       "is_completed": true
     },
     {
-      "match_id": "760417",
-      "home_team_id": "660",
-      "away_team_id": "210",
-      "home_goals": 4,
+      "match_id": "760426",
+      "home_team_id": "459",
+      "away_team_id": "2620",
+      "home_goals": 1,
       "away_goals": 1,
-      "group": "D",
+      "group": "G",
+      "is_completed": true
+    },
+    {
+      "match_id": "760429",
+      "home_team_id": "655",
+      "away_team_id": "212",
+      "home_goals": 1,
+      "away_goals": 1,
+      "group": "H",
+      "is_completed": true
+    },
+    {
+      "match_id": "760427",
+      "home_team_id": "469",
+      "away_team_id": "2666",
+      "home_goals": 2,
+      "away_goals": 2,
+      "group": "G",
+      "is_completed": true
+    },
+    {
+      "match_id": "760432",
+      "home_team_id": "478",
+      "away_team_id": "654",
+      "home_goals": 3,
+      "away_goals": 1,
+      "group": "I",
+      "is_completed": true
+    },
+    {
+      "match_id": "760430",
+      "home_team_id": "4375",
+      "away_team_id": "464",
+      "home_goals": 1,
+      "away_goals": 4,
+      "group": "I",
+      "is_completed": true
+    },
+    {
+      "match_id": "760433",
+      "home_team_id": "202",
+      "away_team_id": "624",
+      "home_goals": 3,
+      "away_goals": 0,
+      "group": "J",
       "is_completed": true
     },
     {
@@ -1035,33 +1098,6 @@
       "is_completed": true
     },
     {
-      "match_id": "760447",
-      "home_team_id": "449",
-      "away_team_id": "466",
-      "home_goals": 5,
-      "away_goals": 1,
-      "group": "F",
-      "is_completed": true
-    },
-    {
-      "match_id": "760448",
-      "home_team_id": "481",
-      "away_team_id": "4789",
-      "home_goals": 2,
-      "away_goals": 1,
-      "group": "E",
-      "is_completed": true
-    },
-    {
-      "match_id": "760446",
-      "home_team_id": "209",
-      "away_team_id": "11678",
-      "home_goals": 0,
-      "away_goals": 0,
-      "group": "E",
-      "is_completed": true
-    },
-    {
       "match_id": "760442",
       "home_team_id": "660",
       "away_team_id": "628",
@@ -1095,69 +1131,6 @@
       "home_goals": 0,
       "away_goals": 1,
       "group": "D",
-      "is_completed": true
-    },
-    {
-      "match_id": "760432",
-      "home_team_id": "478",
-      "away_team_id": "654",
-      "home_goals": 3,
-      "away_goals": 1,
-      "group": "I",
-      "is_completed": true
-    },
-    {
-      "match_id": "760430",
-      "home_team_id": "4375",
-      "away_team_id": "464",
-      "home_goals": 1,
-      "away_goals": 4,
-      "group": "I",
-      "is_completed": true
-    },
-    {
-      "match_id": "760433",
-      "home_team_id": "202",
-      "away_team_id": "624",
-      "home_goals": 3,
-      "away_goals": 0,
-      "group": "J",
-      "is_completed": true
-    },
-    {
-      "match_id": "760428",
-      "home_team_id": "164",
-      "away_team_id": "2597",
-      "home_goals": 0,
-      "away_goals": 0,
-      "group": "H",
-      "is_completed": true
-    },
-    {
-      "match_id": "760426",
-      "home_team_id": "459",
-      "away_team_id": "2620",
-      "home_goals": 1,
-      "away_goals": 1,
-      "group": "G",
-      "is_completed": true
-    },
-    {
-      "match_id": "760429",
-      "home_team_id": "655",
-      "away_team_id": "212",
-      "home_goals": 1,
-      "away_goals": 1,
-      "group": "H",
-      "is_completed": true
-    },
-    {
-      "match_id": "760427",
-      "home_team_id": "469",
-      "away_team_id": "2666",
-      "home_goals": 2,
-      "away_goals": 2,
-      "group": "G",
       "is_completed": true
     },
     {
@@ -1195,33 +1168,56 @@
       "away_goals": 2,
       "group": "H",
       "is_completed": true
-    }
-  ],
-  "fixtures": [
+    },
     {
       "match_id": "760452",
       "home_team_id": "2666",
       "away_team_id": "2620",
+      "home_goals": 1,
+      "away_goals": 3,
       "group": "G",
-      "utc_date": "2026-06-22T01:00Z",
-      "prob_home": 0.4324107334894827,
-      "prob_draw": 0.3006418238971121,
-      "prob_away": 0.2669474426134052,
-      "lambda_home": 1.6123872955175467,
-      "lambda_away": 1.369863509383576,
-      "has_market_odds": true
+      "is_completed": true
     },
+    {
+      "match_id": "760447",
+      "home_team_id": "449",
+      "away_team_id": "466",
+      "home_goals": 5,
+      "away_goals": 1,
+      "group": "F",
+      "is_completed": true
+    },
+    {
+      "match_id": "760448",
+      "home_team_id": "481",
+      "away_team_id": "4789",
+      "home_goals": 2,
+      "away_goals": 1,
+      "group": "E",
+      "is_completed": true
+    },
+    {
+      "match_id": "760446",
+      "home_team_id": "209",
+      "away_team_id": "11678",
+      "home_goals": 0,
+      "away_goals": 0,
+      "group": "E",
+      "is_completed": true
+    }
+  ],
+  "fixtures": [
     {
       "match_id": "760456",
       "home_team_id": "202",
       "away_team_id": "474",
       "group": "J",
       "utc_date": "2026-06-22T17:00Z",
-      "prob_home": 0.628431716165818,
-      "prob_draw": 0.2334291462253824,
-      "prob_away": 0.13813913760879962,
-      "lambda_home": 1.8592958853978776,
-      "lambda_away": 0.7848930908899643,
+      "prob_home": 0.6346084854966603,
+      "prob_draw": 0.23151891365105715,
+      "prob_away": 0.1338726008522827,
+      "lambda_home": 1.8873171344274304,
+      "lambda_away": 0.7846052631860947,
       "has_market_odds": true
     },
     {
@@ -1230,11 +1226,11 @@
       "away_team_id": "4375",
       "group": "I",
       "utc_date": "2026-06-22T21:00Z",
-      "prob_home": 0.8885468597673855,
-      "prob_draw": 0.0795185474694457,
-      "prob_away": 0.03193459276316878,
-      "lambda_home": 3.3595147937136067,
-      "lambda_away": 0.5629847675962076,
+      "prob_home": 0.8911630820588822,
+      "prob_draw": 0.07755701632811947,
+      "prob_away": 0.031279901612998456,
+      "lambda_home": 3.386355887547979,
+      "lambda_away": 0.5595884216866396,
       "has_market_odds": true
     },
     {
@@ -1243,11 +1239,11 @@
       "away_team_id": "654",
       "group": "I",
       "utc_date": "2026-06-23T00:00Z",
-      "prob_home": 0.42714014058506133,
-      "prob_draw": 0.2748468693435628,
-      "prob_away": 0.2980129900713759,
-      "lambda_home": 1.467880871622183,
-      "lambda_away": 1.2276006385401708,
+      "prob_home": 0.4295655716924914,
+      "prob_draw": 0.2760862914573918,
+      "prob_away": 0.2943481368501168,
+      "lambda_home": 1.4699671072242197,
+      "lambda_away": 1.219109983992821,
       "has_market_odds": true
     },
     {
@@ -1256,11 +1252,11 @@
       "away_team_id": "624",
       "group": "J",
       "utc_date": "2026-06-23T03:00Z",
-      "prob_home": 0.15906092292482962,
-      "prob_draw": 0.231528833755447,
-      "prob_away": 0.6094102433197233,
-      "lambda_home": 0.8098020745496612,
-      "lambda_away": 1.847138557316793,
+      "prob_home": 0.1591190902501913,
+      "prob_draw": 0.23212206769585103,
+      "prob_away": 0.6087588420539577,
+      "lambda_home": 0.8099617999300242,
+      "lambda_away": 1.8469788319364302,
       "has_market_odds": true
     },
     {
@@ -1269,11 +1265,11 @@
       "away_team_id": "2570",
       "group": "K",
       "utc_date": "2026-06-23T17:00Z",
-      "prob_home": 0.7958160014734467,
-      "prob_draw": 0.14049284827259206,
-      "prob_away": 0.06369115025396122,
-      "lambda_home": 2.521323233106232,
-      "lambda_away": 0.5810676093315124,
+      "prob_home": 0.797170440679171,
+      "prob_draw": 0.1399319879240969,
+      "prob_away": 0.06289757139673205,
+      "lambda_home": 2.5426018849198586,
+      "lambda_away": 0.5882657488997212,
       "has_market_odds": true
     },
     {
@@ -1282,11 +1278,11 @@
       "away_team_id": "4469",
       "group": "L",
       "utc_date": "2026-06-23T20:00Z",
-      "prob_home": 0.7835600534703457,
-      "prob_draw": 0.14933580540128472,
-      "prob_away": 0.06710414112836949,
-      "lambda_home": 2.4142819781703295,
-      "lambda_away": 0.5671682743626296,
+      "prob_home": 0.7826826593450277,
+      "prob_draw": 0.14973597163772961,
+      "prob_away": 0.06758136901724268,
+      "lambda_home": 2.4119480637853847,
+      "lambda_away": 0.5695021887475744,
       "has_market_odds": true
     },
     {
@@ -1295,11 +1291,11 @@
       "away_team_id": "477",
       "group": "L",
       "utc_date": "2026-06-23T23:00Z",
-      "prob_home": 0.14193244905671917,
-      "prob_draw": 0.2381833284170374,
-      "prob_away": 0.6198842225262434,
-      "lambda_home": 0.7538298903443503,
-      "lambda_away": 1.893504113104136,
+      "prob_home": 0.14200563593338084,
+      "prob_draw": 0.23913893259339639,
+      "prob_away": 0.6188554314732229,
+      "lambda_home": 0.7540685989017948,
+      "lambda_away": 1.8932654045466915,
       "has_market_odds": true
     },
     {
@@ -1308,11 +1304,11 @@
       "away_team_id": "2850",
       "group": "K",
       "utc_date": "2026-06-24T02:00Z",
-      "prob_home": 0.6340474811812391,
-      "prob_draw": 0.22872032426172556,
-      "prob_away": 0.13723219455703534,
-      "lambda_home": 1.8473046874999999,
-      "lambda_away": 0.7526953125000002,
+      "prob_home": 0.6335965918922197,
+      "prob_draw": 0.2290806899747614,
+      "prob_away": 0.13732271813301883,
+      "lambda_home": 1.8463671874999998,
+      "lambda_away": 0.7536328125000002,
       "has_market_odds": true
     },
     {
@@ -1334,11 +1330,11 @@
       "away_team_id": "206",
       "group": "B",
       "utc_date": "2026-06-24T19:00Z",
-      "prob_home": 0.38556001321868494,
-      "prob_draw": 0.3099782746481196,
-      "prob_away": 0.3044617121331955,
-      "lambda_home": 1.280471259188198,
-      "lambda_away": 1.1914845933203466,
+      "prob_home": 0.3859592599217489,
+      "prob_draw": 0.3103019045628443,
+      "prob_away": 0.3037388355154068,
+      "lambda_home": 1.2812876506181783,
+      "lambda_away": 1.1906682018903663,
       "has_market_odds": true
     },
     {
@@ -1360,11 +1356,11 @@
       "away_team_id": "205",
       "group": "C",
       "utc_date": "2026-06-24T22:00Z",
-      "prob_home": 0.1195403457755762,
-      "prob_draw": 0.1894245015294582,
-      "prob_away": 0.6910351526949656,
-      "lambda_home": 0.7289529908422265,
-      "lambda_away": 2.077462204622861,
+      "prob_home": 0.11956419873897474,
+      "prob_draw": 0.18926276008918277,
+      "prob_away": 0.6911730411718425,
+      "lambda_home": 0.7290374151340802,
+      "lambda_away": 2.077377780331007,
       "has_market_odds": true
     },
     {
@@ -1399,11 +1395,11 @@
       "away_team_id": "4789",
       "group": "E",
       "utc_date": "2026-06-25T20:00Z",
-      "prob_home": 0.0505481645388549,
-      "prob_draw": 0.11163941015765232,
-      "prob_away": 0.8378124253034928,
-      "lambda_home": 0.6270563350403972,
-      "lambda_away": 2.9728778042113113,
+      "prob_home": 0.05042832396034575,
+      "prob_draw": 0.11141090821540756,
+      "prob_away": 0.8381607678242466,
+      "lambda_home": 0.6262415307787886,
+      "lambda_away": 2.97369260847292,
       "has_market_odds": true
     },
     {
@@ -1412,11 +1408,11 @@
       "away_team_id": "481",
       "group": "E",
       "utc_date": "2026-06-25T20:00Z",
-      "prob_home": 0.2621502309618521,
-      "prob_draw": 0.25238637836805156,
-      "prob_away": 0.4854633906700964,
-      "lambda_home": 1.1117394015801252,
-      "lambda_away": 1.61410591626045,
+      "prob_home": 0.26204697267299765,
+      "prob_draw": 0.2522869659606513,
+      "prob_away": 0.4856660613663512,
+      "lambda_home": 1.1114935050971684,
+      "lambda_away": 1.6143518127434069,
       "has_market_odds": true
     },
     {
@@ -1425,11 +1421,11 @@
       "away_team_id": "466",
       "group": "F",
       "utc_date": "2026-06-25T23:00Z",
-      "prob_home": 0.49214697828767917,
-      "prob_draw": 0.2758136593041686,
-      "prob_away": 0.23203936240815223,
-      "lambda_home": 1.666274464654561,
-      "lambda_away": 1.1590680760864052,
+      "prob_home": 0.49221538909027435,
+      "prob_draw": 0.2757765055746583,
+      "prob_away": 0.2320081053350674,
+      "lambda_home": 1.6664444684717448,
+      "lambda_away": 1.1588980722692215,
       "has_market_odds": true
     },
     {
@@ -1438,11 +1434,11 @@
       "away_team_id": "449",
       "group": "F",
       "utc_date": "2026-06-25T23:00Z",
-      "prob_home": 0.04824994897834778,
-      "prob_draw": 0.11252320190846028,
-      "prob_away": 0.8392268491131919,
-      "lambda_home": 0.5406882692176442,
-      "lambda_away": 2.7847135900658033,
+      "prob_home": 0.04788534990462842,
+      "prob_draw": 0.11256630761162649,
+      "prob_away": 0.8395483424837451,
+      "lambda_home": 0.5383321002816956,
+      "lambda_away": 2.787069759001752,
       "has_market_odds": true
     },
     {
@@ -1451,11 +1447,11 @@
       "away_team_id": "628",
       "group": "D",
       "utc_date": "2026-06-26T02:00Z",
-      "prob_home": 0.3358826018437262,
-      "prob_draw": 0.41721292732111276,
-      "prob_away": 0.2469044708351611,
-      "lambda_home": 0.8864559222574463,
-      "lambda_away": 0.8779831837301025,
+      "prob_home": 0.33570535203998003,
+      "prob_draw": 0.4160656499961907,
+      "prob_away": 0.24822899796382908,
+      "lambda_home": 0.8861401680266136,
+      "lambda_away": 0.8782989379609353,
       "has_market_odds": true
     },
     {
@@ -1464,11 +1460,11 @@
       "away_team_id": "660",
       "group": "D",
       "utc_date": "2026-06-26T02:00Z",
-      "prob_home": 0.27995481644179476,
-      "prob_draw": 0.23969375588327577,
-      "prob_away": 0.48035142767492933,
-      "lambda_home": 1.2315825171509642,
-      "lambda_away": 1.68416525888053,
+      "prob_home": 0.27927166349584576,
+      "prob_draw": 0.23953561518280958,
+      "prob_away": 0.4811927213213446,
+      "lambda_home": 1.2298273000025075,
+      "lambda_away": 1.6859204760289868,
       "has_market_odds": true
     },
     {
@@ -1477,11 +1473,11 @@
       "away_team_id": "478",
       "group": "I",
       "utc_date": "2026-06-26T19:00Z",
-      "prob_home": 0.22231916643203375,
-      "prob_draw": 0.25121443064056703,
-      "prob_away": 0.5264664029273992,
-      "lambda_home": 1.010921843567921,
-      "lambda_away": 1.7149234742726542,
+      "prob_home": 0.22194433980948394,
+      "prob_draw": 0.2509785679103473,
+      "prob_away": 0.5270770922801686,
+      "lambda_home": 1.0099382576360947,
+      "lambda_away": 1.7159070602044806,
       "has_market_odds": true
     },
     {
@@ -1493,8 +1489,8 @@
       "prob_home": 0.7275269953017452,
       "prob_draw": 0.18017034898663842,
       "prob_away": 0.0923026557116163,
-      "lambda_home": 2.134107984593429,
-      "lambda_away": 0.6102072200269322,
+      "lambda_home": 2.1334614178442273,
+      "lambda_away": 0.6097101405358996,
       "has_market_odds": true
     },
     {
@@ -1503,11 +1499,11 @@
       "away_team_id": "655",
       "group": "H",
       "utc_date": "2026-06-27T00:00Z",
-      "prob_home": 0.3992860725166914,
-      "prob_draw": 0.26529787563940543,
-      "prob_away": 0.3354160518439031,
-      "lambda_home": 1.3442303432998592,
-      "lambda_away": 1.2072661052169855,
+      "prob_home": 0.3992631164253527,
+      "prob_draw": 0.2652203353727226,
+      "prob_away": 0.33551654820192456,
+      "lambda_home": 1.3480742324030142,
+      "lambda_away": 1.2121711098516244,
       "has_market_odds": true
     },
     {
@@ -1516,11 +1512,11 @@
       "away_team_id": "164",
       "group": "H",
       "utc_date": "2026-06-27T00:00Z",
-      "prob_home": 0.15015277206908184,
-      "prob_draw": 0.22850650202051004,
-      "prob_away": 0.6213407259104081,
-      "lambda_home": 0.8117970671158401,
-      "lambda_away": 1.9335474191207325,
+      "prob_home": 0.14946690471025978,
+      "prob_draw": 0.22775432566365775,
+      "prob_away": 0.6227787696260825,
+      "lambda_home": 0.8085508887193283,
+      "lambda_away": 1.9335913880445874,
       "has_market_odds": true
     },
     {
@@ -1529,11 +1525,11 @@
       "away_team_id": "469",
       "group": "G",
       "utc_date": "2026-06-27T03:00Z",
-      "prob_home": 0.43462533102510753,
-      "prob_draw": 0.32814301227661247,
-      "prob_away": 0.23723165669828009,
-      "lambda_home": 1.1492047214068588,
-      "lambda_away": 0.8157155704937757,
+      "prob_home": 0.4127323434838704,
+      "prob_draw": 0.33581443550559625,
+      "prob_away": 0.2514532210105334,
+      "lambda_home": 1.040205605441879,
+      "lambda_away": 0.7659194060022128,
       "has_market_odds": true
     },
     {
@@ -1542,11 +1538,11 @@
       "away_team_id": "459",
       "group": "G",
       "utc_date": "2026-06-27T03:00Z",
-      "prob_home": 0.07726925807946451,
-      "prob_draw": 0.1448147443556706,
-      "prob_away": 0.777915997564865,
-      "lambda_home": 0.6350371683758567,
-      "lambda_away": 2.439448705800168,
+      "prob_home": 0.07610246675130503,
+      "prob_draw": 0.14411643851259365,
+      "prob_away": 0.7797810947361012,
+      "lambda_home": 0.6293882536320599,
+      "lambda_away": 2.445097620543965,
       "has_market_odds": true
     },
     {
@@ -1555,11 +1551,11 @@
       "away_team_id": "4469",
       "group": "L",
       "utc_date": "2026-06-27T21:00Z",
-      "prob_home": 0.5794389040316172,
-      "prob_draw": 0.25333206845906125,
-      "prob_away": 0.1672290275093214,
-      "lambda_home": 1.691582776530122,
-      "lambda_away": 0.8258330140277392,
+      "prob_home": 0.5799608891921364,
+      "prob_draw": 0.2532150667990667,
+      "prob_away": 0.16682404400879688,
+      "lambda_home": 1.692565638019296,
+      "lambda_away": 0.8248501525385652,
       "has_market_odds": true
     },
     {
@@ -1581,11 +1577,11 @@
       "away_team_id": "482",
       "group": "K",
       "utc_date": "2026-06-27T23:30Z",
-      "prob_home": 0.26275010532919324,
-      "prob_draw": 0.27418322836527426,
-      "prob_away": 0.46306666630553245,
-      "lambda_home": 1.0332345478303615,
-      "lambda_away": 1.4882983691923435,
+      "prob_home": 0.26266702208786835,
+      "prob_draw": 0.27365550571503583,
+      "prob_away": 0.4636774721970958,
+      "lambda_home": 1.0323127147511695,
+      "lambda_away": 1.4873331859751486,
       "has_market_odds": true
     },
     {
@@ -1610,8 +1606,8 @@
       "prob_home": 0.3115817328064061,
       "prob_draw": 0.3093074135888412,
       "prob_away": 0.3791108536047527,
-      "lambda_home": 1.113445547437004,
-      "lambda_away": 1.3329498116023022,
+      "lambda_home": 1.1126874679818866,
+      "lambda_away": 1.3318780570730449,
       "has_market_odds": true
     },
     {
